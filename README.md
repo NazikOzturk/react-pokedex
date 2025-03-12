@@ -20,4 +20,4 @@ CSS
 
 Pokémon verisi için PokeAPI
 
-![(ekran.gif)]
+![](ekran.gif)
