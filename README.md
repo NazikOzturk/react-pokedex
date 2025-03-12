@@ -1,6 +1,6 @@
 # Açıklama:
 
-Bu, basit bir React uygulamasıdır ve Pokémon kartlarını görüntüler. Her kart, Pokémon'un adı, resmi, türü ve deneyim puanlarını gösterir. Uygulama, PokeAPI verilerini kullanarak kartları dinamik bir şekilde oluşturur ve görsel açıdan çekici bir şekilde sunar.
+Bu proje, react ile oluşturduğum basit bir React uygulamasıdır ve Pokémon kartlarını görüntüler. Her kart, Pokémon'un adı, resmi, türü ve deneyim puanlarını gösterir. Uygulama, PokeAPI verilerini kullanarak kartları dinamik bir şekilde oluşturur ve görsel açıdan çekici bir şekilde sunar.
 
 # Özellikler:
 
